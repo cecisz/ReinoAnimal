@@ -15,7 +15,7 @@ public class Principal {
 		a1.setEspecie("Carcharias taurus");
 		a1.setSexo("Fêmea");
 		a1.setData("7");
-		a1.setTipoAgua("Água salgada");
+		a1.setTipoAgua("agua salgada");
 		a1.setEscama(true);
 		
 		Aquatico a2 = new Aquatico();
@@ -23,7 +23,7 @@ public class Principal {
 		a2.setEspecie("Pygocentrus nattereri");
 		a2.setSexo("Macho");
 		a2.setData("3");
-		a2.setTipoAgua("Água doce");
+		a2.setTipoAgua("agua doce");
 		a2.setEscama(true);
 		
 		Terrestre a3 = new Terrestre();
@@ -31,7 +31,7 @@ public class Principal {
 		a3.setEspecie("Felis catus");
 		a3.setSexo("Fêmea");
 		a3.setData("2");
-		a3.setLocal("Ásia");
+		a3.setLocal("asia");
 		a3.setPelagem(true);
 		
 		Terrestre a4 = new Terrestre();
