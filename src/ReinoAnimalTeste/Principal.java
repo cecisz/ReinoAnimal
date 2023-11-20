@@ -16,7 +16,7 @@ public class Principal {
 		a1.setSexo("Fêmea");
 		a1.setData("7");
 		a1.setTipoAgua("agua salgada");
-		a1.setEscama(true);
+		a1.setEscama(false);
 		
 		Aquatico a2 = new Aquatico();
 		
